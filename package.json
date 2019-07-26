@@ -1,6 +1,6 @@
 {
   "name": "words-replace",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "主要是对webpack打包之后的代码里面第三方插件的敏感词之类的进行替换",
   "main": "index.js",
   "scripts": {},
