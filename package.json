@@ -1,11 +1,9 @@
 {
   "name": "words-replace",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "主要是对webpack打包之后的代码里面第三方插件的敏感词之类的进行替换",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/450611/replaceStr.git"
